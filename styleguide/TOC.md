@@ -2,7 +2,7 @@
 ## [What's new](welcome/whats-new.md)
 # [Microsoft's brand voice: above all, simple and human](brand-voice-above-all-simple-human.md)
 # [Top 10 tips for Microsoft style and voice](top-10-tips-style-voice.md)
-# A–Z word list and term collections
+# A–Z words list and term collections
 ## Term collections
 ### [Accessibility terms](a-z-word-list-term-collections/term-collections/accessibility-terms.md)
 ### [AI and bot terms](a-z-word-list-term-collections/term-collections/ai-bot-terms.md)
